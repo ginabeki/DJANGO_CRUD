@@ -1,1 +1,1 @@
-# DJANGO_CRUD
+# [Django CRUD]
